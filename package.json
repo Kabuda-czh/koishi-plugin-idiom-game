@@ -13,9 +13,10 @@
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "idiom"
   ],
   "peerDependencies": {
-    "koishi": "4.15.5"
+    "koishi": "^4.15.5"
   }
 }
